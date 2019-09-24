@@ -3,6 +3,7 @@
 
 //chamo, miro o elemento que eu vou guardar e mexer na minha gaveta
 
+<<<<<<< HEAD
 const muitosGatos = document.querySelectorAll(".item__imagem")
 
  for( let i=0; i<muitosGatos.length; i++){
@@ -33,7 +34,27 @@ for( let i=0; i<muitosGatos.length; i++){
         }
     })
 }
+=======
+let muitosGatos = document.querySelectorAll(".item__imagem")
+
+for( let i=0; i<muitosGatos.length; i++){
+    muitosGatos[i].addEventListener("click", function(){
+    muitosGatos[i].classList.add("gatoInvisivel")
+
+    })
+}
+
+
+
+>>>>>>> 78383d3259a282668bb9a262127d566be8167c64
 
 //ao clicar no gato vou colocar a função de 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 78383d3259a282668bb9a262127d566be8167c64

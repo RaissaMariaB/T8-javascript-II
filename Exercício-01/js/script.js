@@ -38,6 +38,7 @@ meuTitulo.addEventListener("click", function logar(){
 // opções
 
 
+<<<<<<< HEAD
 //criando um objeto
 
 
@@ -53,6 +54,8 @@ raissa.hobbies = "dançar"
 raissa.jogar = function(){
     console.log ("cabelo chacheado")
 }
+=======
+>>>>>>> 78383d3259a282668bb9a262127d566be8167c64
 
 
 
