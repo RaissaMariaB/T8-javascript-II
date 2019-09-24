@@ -38,6 +38,21 @@ meuTitulo.addEventListener("click", function logar(){
 // opções
 
 
+//criando um objeto
+
+
+const raissa = {
+    "idade"= 27,
+    "formação" = "bióloga"
+
+}
+
+
+raissa.hobbies = "dançar"
+
+raissa.jogar = function(){
+    console.log ("cabelo chacheado")
+}
 
 
 
