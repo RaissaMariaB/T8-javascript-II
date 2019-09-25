@@ -6,7 +6,7 @@ const alunas = ["Simara", "lia", "aline", "bah", "thais", "dry", "manu"]
 
 let divMae = document.getElementById("lista-alunas")
 
-// * no meu petodo eu tenho que especificar qual, nesse caso era id; e o document é o acesso ao DOM - documet. *
+// * no meu petodo eu tenho que especificar qual, nesse caso era id; e o document é o acesso ao DOM - document. *
 
 
 //percorrer array
